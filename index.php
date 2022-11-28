@@ -111,7 +111,7 @@ $realIP = file_get_contents("http://ipecho.net/plain");
         <div>
             <a href="https://github.com/rodriguesabner">Github</a>
             <p id="sep">|</p>
-            <a href="api/ip.php">API</a>
+            <a href="api/ip">API</a>
         </div>
 
     </div>
